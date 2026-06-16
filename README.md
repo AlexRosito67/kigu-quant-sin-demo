@@ -91,7 +91,7 @@ kigu-quant Pro generates LUT and CORDIC headers for any function — sin, cos, t
 
 Available for Linux at **$19.00** — permanent single-developer license.
 
-👉 [Get kigu-quant Pro](https://hasaki.lemonsqueezy.com)
+👉 [Get kigu-quant](https://hasaki.lemonsqueezy.com/checkout/buy/a200a9ab-03a4-41d7-9b5f-46da5f150d94)
 
 ---
 
