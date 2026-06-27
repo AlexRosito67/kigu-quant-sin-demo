@@ -102,5 +102,5 @@ Available for Linux at **$19.00** — permanent single-developer license.
 
 ---
 
-*Rosito Bench — Tiny tools. Big solutions.*  
+*Rosito Bench — Tiny tools. Big solutions.* 
 *Created by Alex Rosito — Valley Glen, Los Angeles, California*
