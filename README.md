@@ -4,9 +4,6 @@
   <img src="./logo_kigu.png" width="600" alt="Kigu Logo">
 </p>
 
-<p align="center">
-  <strong>Tiny tools. Big solutions.</strong>
-</p>
 
 A live demonstration of [kigu-quant](https://hasaki.lemonsqueezy.com) running on an ESP32-C3.
 
